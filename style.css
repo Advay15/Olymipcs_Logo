@@ -1,0 +1,16 @@
+h1
+{
+	color:darkgray; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("A.webp");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+	background-color: whitesmoke;
+	border-width: 10px;
+	border-style: ridge;
+}
